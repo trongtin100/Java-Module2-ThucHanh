@@ -1,7 +1,6 @@
 import java.util.Scanner;
 public class DaoNguocPhanTuCuaMang {
     public static void main (String[]args){
-
         // khai báo biến, nhập và kiểm tra kích thước mảng:
         int size;
         int[]array;
